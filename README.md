@@ -1,6 +1,9 @@
 # Basics of Creating a Virtual Machine in Azure
 This is a quick guide on how to create a virtual machine using the Microsoft service Azure. This ability will be very useful for the various tutorials found on my github.
 
+<h2>Video Tutorial</h2>
+
+[Making a Virtual Machine using Microsoft Azure](https://youtu.be/pZjoVSxFV54)
 
 <h2>Getting Started</h2>
 Go to www.Azure.com. In order to create a virtual machine, you will need an Azure account. Azure is a pay per use service, but don’t worry. There is a free trial available that gives you $200 worth of tokens. You can experiment and familiarize yourself with all of its features, and you will likely not come close to exhausting this limit.
